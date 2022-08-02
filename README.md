@@ -1,2 +1,3 @@
-# onemokang
-Self-introduction
+# Onemo Kang
+## I am a Software Engineer @ Capital One
+
