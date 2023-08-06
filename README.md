@@ -5,4 +5,4 @@ I recently graduated from Boston College with a degree in Physics, Mathematics, 
 - 👨‍🎓 I completed [Capital One Developer Academy (CODA)](https://www.capitalone.com/tech/culture/coda-making-tech-move/), a six-month intensive software engineering training program designed to equip non-Computer Science majors for professional roles as software engineers
 - ✅ I earned the AWS Certified Solutions Architect - Associate [certification](https://www.credly.com/badges/1df6a9b7-e6c6-4d8e-85ee-f45a8e17ceba/public_url)
 - 👨‍💻 I'm currently working on projects involving JavaScript, HTML, and CSS
-- 📭 My inbox is always open, so message me anytime on [LinkedIn](https://www.linkedin.com/in/onemokang0708/) 🤙
+- 📭 My inbox is always open, so message me anytime on [LinkedIn](https://www.linkedin.com/in/onemokang/) 🤙
